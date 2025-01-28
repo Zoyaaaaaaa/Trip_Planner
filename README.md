@@ -3,6 +3,8 @@
 ### **Documentation: AI Travel Planner Application**
 
 ---
+Video Demo Link: https://vimeo.com/1051197602?share=copy
+
 
 #### **1. Prompts Used**
 ##### **System Prompt**:
